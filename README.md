@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Anjali Pushkar 👋</h1>
 <h3 align="center">A passionate Web Developer.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalipushkar&label=Profile%20views&color=0e75b6&style=flat" alt="anjalipushkar" /> </p>
+
 <img align="right" alt="Coding" width="300" src="https://www.shutterstock.com/shutterstock/photos/1731157933/display_1500/stock-vector-a-young-woman-writes-code-on-the-computer-programmer-laptop-screen-with-script-female-programmer-1731157933.jpg">
 
 
@@ -19,5 +21,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anjali-486154159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anjali-486154159/" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalipushkar&label=Profile%20views&color=0e75b6&style=flat" alt="anjalipushkar" /> </p>
 
